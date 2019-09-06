@@ -1,0 +1,31 @@
+CustomFiltersActionGroup.org.eclipse.jdt.ui.PackageExplorer.TAG_DUMMY_TO_TEST_EXISTENCE=storedViewPreferences
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.recommenders.calls.rcp.proposalCategory.templates\u0000org.eclipse.mylyn.java.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.recommenders.chain.rcp.proposalCategory.chain\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.lang.Enum"><rhs name\="team.service.Status"/><rhs name\="Tank$Driection"/><rhs name\="Tank$Direction"/></lhs><lhs name\="team.service.Status"><rhs name\="team.service.Status"/></lhs><lhs name\="team.domain.Employee"><rhs name\="team.domain.Designer"/><rhs name\="team.domain.Architect"/><rhs name\="team.domain.Employee"/></lhs><lhs name\="\u5BA2\u6237\u4FE1\u606F\u7BA1\u7406\u8F6F\u4EF6.Customer"><rhs name\="\u5BA2\u6237\u4FE1\u606F\u7BA1\u7406\u8F6F\u4EF6.Customer"/></lhs><lhs name\="\u5BA2\u6237\u4FE1\u606F\u7BA1\u7406\u8F6F\u4EF6.CustomerList"><rhs name\="\u5BA2\u6237\u4FE1\u606F\u7BA1\u7406\u8F6F\u4EF6.CustomerList"/></lhs><lhs name\="java.awt.Frame"><rhs name\="TankClient"/></lhs><lhs name\="java.awt.MenuContainer"><rhs name\="TankClient"/></lhs><lhs name\="java.awt.Window"><rhs name\="TankClient"/></lhs><lhs name\="javax.accessibility.Accessible"><rhs name\="TankClient"/></lhs><lhs name\="java.awt.Container"><rhs name\="TankClient"/></lhs><lhs name\="java.awt.Component"><rhs name\="TankClient"/></lhs><lhs name\="java.awt.image.ImageObserver"><rhs name\="TankClient"/></lhs><lhs name\="TankClient"><rhs name\="TankClient"/></lhs><lhs name\="java.awt.Paint"><rhs name\="java.awt.Color"/></lhs><lhs name\="java.awt.Transparency"><rhs name\="java.awt.Color"/></lhs><lhs name\="java.awt.Color"><rhs name\="java.awt.Color"/></lhs><lhs name\="java.lang.Exception"><rhs name\="java.lang.InterruptedException"/></lhs><lhs name\="java.lang.Throwable"><rhs name\="java.lang.InterruptedException"/></lhs><lhs name\="java.lang.InterruptedException"><rhs name\="java.lang.InterruptedException"/></lhs><lhs name\="java.lang.Runnable"><rhs name\="TankClient$PaintThread"/></lhs><lhs name\="java.util.EventListener"><rhs name\="TankClient$KeyMonitor"/></lhs><lhs name\="java.awt.event.KeyListener"><rhs name\="TankClient$KeyMonitor"/></lhs><lhs name\="Tank$Driection"><rhs name\="Tank$Driection"/></lhs><lhs name\="Missile"><rhs name\="Missile"/></lhs><lhs name\="java.awt.Shape"><rhs name\="java.awt.Rectangle"/></lhs><lhs name\="java.awt.geom.Rectangle2D"><rhs name\="java.awt.Rectangle"/></lhs><lhs name\="java.awt.geom.RectangularShape"><rhs name\="java.awt.Rectangle"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="java.awt.Rectangle"/></lhs><lhs name\="java.awt.Rectangle"><rhs name\="java.awt.Rectangle"/></lhs><lhs name\="Explode"><rhs name\="Explode"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="Tank$Direction"><rhs name\="Tank$Direction"/></lhs><lhs name\="java.util.Random"><rhs name\="java.util.Random"/></lhs><lhs name\="Wall"><rhs name\="Wall"/></lhs></history>
+content_assist_number_of_computers=24
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+lastRecentlyUsedFilters=org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter,
+org.eclipse.buildship.ui.packageexplorer.filter.gradle.buildfolder=true
+org.eclipse.buildship.ui.packageexplorer.filter.gradle.subProject=true
+org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter=true
+org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter=true
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter=true
+org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter=true
+org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter=true
+org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter=true
+org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter=true
+org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*=true
+org.eclipse.jdt.ui.PackageExplorer_patternFilterId_RemoteSystemsConnections=true
+org.eclipse.jdt.ui.PackageExplorer_patternFilterId_RemoteSystemsTempFiles=true
+org.eclipse.jdt.ui.formatterprofiles.version=13
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+org.eclipse.pde.ui.ExternalPluginLibrariesFilter1=true
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

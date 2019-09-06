@@ -1,0 +1,63 @@
+import team.service.*;
+import team.domain.*;
+
+
+public class CompanyService {
+	
+	private Employee[] employees;//多态数组，用来存放各种不同类
+	
+	public CompanyService() {
+	//先处理设备
+	Equipment[] eqs = new Equipment[Data.EQIPMENTS.length];
+	for(int i=0;i<Data.EQIPMENTS.length;i++) {
+		String[] childArray = Data.EQIPMENTS[i];
+		for(String s:childArray) {
+			System.out.print(s+" ");
+		}
+		System.out.println();
+		/*if(childArray.length==0) {
+			continue;
+		}
+		switch(codeInt) {
+		case 10:
+			//处理员工
+		case 11:
+			//处理程序员
+		case 12:
+			//处理设计师
+		case 13:
+			
+		case 14:
+			//处理架构师
+		}
+	}*/
+	}
+	//根据Data类中数据解析生成对象，并把对象保存在employees数组中。
+	//private Employee[] employees;
+	//public CompanyService() {
+		employees = new Employee[Data.EMPLOYEES.length];//体现了有多少子数组。
+		for(int i=0;i<Data.EMPLOYEES.length;i++) {
+			String[] childArray = Data.EMPLOYEES[i];//从子数组中
+			for(String s:childArray) {
+				System.out.print(s+" ");
+			}
+			System.out.println();
+			String codeStirng = childArray[0];
+			int codeInt = Integer.parseInt(codeStirng);
+			Employee emp = null;
+			switch(codeInt) {
+			case 10:
+				//处理员工
+			case 11:
+				//处理程序员
+			case 12:
+				//处理设计师
+			case 13:
+				
+			case 14:
+				//处理架构师
+			}
+			
+		}
+	}
+}

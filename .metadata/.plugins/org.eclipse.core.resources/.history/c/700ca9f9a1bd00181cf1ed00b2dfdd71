@@ -1,0 +1,14 @@
+import java.awt.Color;
+import java.awt.Graphics;
+
+public class Blood {
+	int x,y,w,h;
+	TankClient tc;
+	
+	public void draw(Graphics g) {
+		Color c = g.getColor();
+		g.setColor(Color.MAGENTA);
+		g.fillRect(x, y, w, h);
+		g.setColor(c);
+	}
+}

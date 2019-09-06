@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;Tank.colideWithWall(...)&apos; to &apos;colidesWithWall&apos;&#x0D;&#x0A;- Original project: &apos;TankWar2.0&apos;&#x0D;&#x0A;- Original element: &apos;Tank.colideWithWall(...)&apos;&#x0D;&#x0A;- Renamed element: &apos;Tank.colidesWithWall(...)&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;colideWithWall&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;{Tank.java[Tank~colideWithWall~QWall;" name="colidesWithWall" references="true" stamp="1537444165525" version="1.0"/>
+</session>

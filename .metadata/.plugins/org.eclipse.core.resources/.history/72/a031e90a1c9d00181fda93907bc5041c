@@ -1,0 +1,40 @@
+package 客户信息管理软件;
+
+public class CustomerView {
+
+	public static void main(String[] args) {
+		
+		//Customer[] cs = new Customer[20];
+
+		/*cs[0]= new Customer("yi",'怒',12,"12485","154@14512");
+		cs[1]= new Customer("yi5",'怒',12,"12482121","4512");
+	//下面的语句不能正常执行	*/
+	/*for(Customer c : cs) {
+		System.out.println(c.say());
+	}
+		
+	Customer[] cs2 = new Customer[2];
+	for(int i = 0;i<2;i++) {
+		cs2[i] = cs[i];
+	}
+	for(Customer c : cs2) {
+		System.out.println(c.say());
+	
+	}*/
+	
+	Customer	c1 = new Customer("yi5",'怒',12,"12482121","4512");
+	Customer	c2 = new Customer("yi5",'怒',12,"12482121654","4512");
+	CustomerList custList = new CustomerList(10);
+	
+	Customer[] cs = custList.customers;
+	/*for(Customer c : cs) {
+		System.out.println(c);
+	}*/
+	custList.addCustomer(c1);
+	custList.addCustomer(c2);
+	for(Customer c : cs) {
+		System.out.println(c);
+	}
+	}
+}
+		
